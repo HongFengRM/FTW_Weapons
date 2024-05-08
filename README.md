@@ -1,2 +1,4 @@
 # FTW_Weapons
 一个飞艇征服天空的mod项目
+点击左上角的issue以提交请求
+文件将在steam创意工坊提供
